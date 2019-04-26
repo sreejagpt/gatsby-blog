@@ -8,5 +8,4 @@
 * * *
 
 <sup>A [GatsbyJS](https://www.gatsbyjs.org/) blog starter. <br /><br /></sup>
-
 <sup>For more information visit » [dev.greglobinski.com/gatsby-starter-hero-blog](https://dev.greglobinski.com/gatsby-starter-hero-blog/)</sup>
